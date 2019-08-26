@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "borillo",
+      "name": "Ricardo Borillo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/570960?s=460&v=4",
+      "profile": "https://programmeratwork.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "castellon",
+  "projectOwner": "comunidad-tecnologica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
